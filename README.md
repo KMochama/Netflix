@@ -1,9 +1,9 @@
-## Analyzing-Netflix-Data-using-Python
+# Analyzing-Netflix-Data-using-Python
 
-# Big-Data Analysis with Python
+## Big-Data Analysis with Python
 
-Netflix Logo
 
+## Project Descriptions 
 Welcome to my project on Analyzing Netflix Data using Python! This repository contains a Jupyter Notebook that demonstrates an analysis of Netflix movie and TV show data using Python programming language. The analysis includes exploratory data analysis (EDA), data visualization, and insights derived from the dataset.
 
 Table of Contents
