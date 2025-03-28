@@ -1,5 +1,6 @@
-Analyzing-Netflix-Data-using-Python
-Big-Data Analysis with Python
+## Analyzing-Netflix-Data-using-Python
+
+# Big-Data Analysis with Python
 
 Netflix Logo
 
